@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+.head,.subheading{
+    display:flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.text-right button{
+    position: fixed;
+    right: 10rem;
+}
+
+#table{
+    margin-top: 3rem;
+}
